@@ -1,0 +1,1 @@
+CREATE INDEX hr_demo.emp_manager_ix ON hr_demo.employees(manager_id);

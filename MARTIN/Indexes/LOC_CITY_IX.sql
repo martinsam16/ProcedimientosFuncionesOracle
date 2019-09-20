@@ -1,1 +1,0 @@
-CREATE INDEX martin.loc_city_ix ON martin.locations(city);

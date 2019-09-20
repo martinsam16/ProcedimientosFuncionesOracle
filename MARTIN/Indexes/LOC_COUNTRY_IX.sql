@@ -1,1 +1,0 @@
-CREATE INDEX martin.loc_country_ix ON martin.locations(country_id);

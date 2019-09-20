@@ -1,1 +1,0 @@
-CREATE INDEX martin.emp_manager_ix ON martin.employees(manager_id);

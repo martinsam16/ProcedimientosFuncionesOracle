@@ -1,1 +1,0 @@
-CREATE INDEX martin.loc_state_province_ix ON martin.locations(state_province);

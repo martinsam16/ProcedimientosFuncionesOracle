@@ -1,1 +1,0 @@
-CREATE INDEX martin.emp_job_ix ON martin.employees(job_id);

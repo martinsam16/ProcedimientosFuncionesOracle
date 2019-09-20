@@ -1,0 +1,1 @@
+CREATE INDEX hr_demo.emp_department_ix ON hr_demo.employees(department_id);

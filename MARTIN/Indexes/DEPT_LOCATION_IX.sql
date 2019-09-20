@@ -1,1 +1,0 @@
-CREATE INDEX martin.dept_location_ix ON martin.departments(location_id);

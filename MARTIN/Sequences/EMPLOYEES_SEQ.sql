@@ -1,1 +1,0 @@
-CREATE SEQUENCE martin.employees_seq NOCACHE;
